@@ -18,3 +18,4 @@ This section will analyze the correlation between the pH-over-time data and the 
 
 ---
 **Contact:** Dimitri Bocquel
+** released by Lilandra Albert-Lavault & Samuele Moungang
