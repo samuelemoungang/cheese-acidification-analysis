@@ -1,0 +1,2 @@
+cd /home/samuele24/ExtraSpace/cheese-acidification-analysis
+jupyter notebook
